@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/wishlist/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/wishlist/static/js/main.40cbc23d.chunk.js",
-    "main.js.map": "/wishlist/static/js/main.40cbc23d.chunk.js.map",
+    "main.css": "/wishlist/static/css/main.54702538.chunk.css",
+    "main.js": "/wishlist/static/js/main.5984c039.chunk.js",
+    "main.js.map": "/wishlist/static/js/main.5984c039.chunk.js.map",
     "runtime-main.js": "/wishlist/static/js/runtime-main.d8116100.js",
     "runtime-main.js.map": "/wishlist/static/js/runtime-main.d8116100.js.map",
-    "static/js/2.5e9d5097.chunk.js": "/wishlist/static/js/2.5e9d5097.chunk.js",
-    "static/js/2.5e9d5097.chunk.js.map": "/wishlist/static/js/2.5e9d5097.chunk.js.map",
+    "static/js/2.1cf7f2f4.chunk.js": "/wishlist/static/js/2.1cf7f2f4.chunk.js",
+    "static/js/2.1cf7f2f4.chunk.js.map": "/wishlist/static/js/2.1cf7f2f4.chunk.js.map",
     "index.html": "/wishlist/index.html",
-    "precache-manifest.da26df7b12f515aba97da344ad1e1064.js": "/wishlist/precache-manifest.da26df7b12f515aba97da344ad1e1064.js",
+    "precache-manifest.1adcde4ba0d74e0b3c3f204c02fd51b1.js": "/wishlist/precache-manifest.1adcde4ba0d74e0b3c3f204c02fd51b1.js",
     "service-worker.js": "/wishlist/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/wishlist/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.5e9d5097.chunk.js.LICENSE.txt": "/wishlist/static/js/2.5e9d5097.chunk.js.LICENSE.txt"
+    "static/css/main.54702538.chunk.css.map": "/wishlist/static/css/main.54702538.chunk.css.map",
+    "static/js/2.1cf7f2f4.chunk.js.LICENSE.txt": "/wishlist/static/js/2.1cf7f2f4.chunk.js.LICENSE.txt",
+    "static/media/concealer.jpg": "/wishlist/static/media/concealer.978d73b8.jpg",
+    "static/media/gel-lack.jpg": "/wishlist/static/media/gel-lack.aa8fa68e.jpg",
+    "static/media/kameraskydd.webp": "/wishlist/static/media/kameraskydd.8231f196.webp",
+    "static/media/linne.jpg": "/wishlist/static/media/linne.0500988b.jpg",
+    "static/media/index.css": "/wishlist/static/media/the_perfect_christmas-webfont.fbb9a19c.woff",
+    "static/media/nagel-kit.jpg": "/wishlist/static/media/nagel-kit.d21b74d4.jpg",
+    "static/media/parfym-rihanna.jpg": "/wishlist/static/media/parfym-rihanna.4e200b41.jpg",
+    "static/media/revlor-borste.webp": "/wishlist/static/media/revlor-borste.111cb516.webp",
+    "static/media/sportBh.jpg": "/wishlist/static/media/sportBh.3495320b.jpg",
+    "static/media/trosa.jpg": "/wishlist/static/media/trosa.6219a81c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d8116100.js",
-    "static/js/2.5e9d5097.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.40cbc23d.chunk.js"
+    "static/js/2.1cf7f2f4.chunk.js",
+    "static/css/main.54702538.chunk.css",
+    "static/js/main.5984c039.chunk.js"
   ]
 }
